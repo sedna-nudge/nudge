@@ -15,7 +15,7 @@
 
 3. [实时画面超分提升直播画面质量 @wujiyu115](https://mp.weixin.qq.com/s/Y7l8yOWdguyeRiWAAIOTPg)
 
-用技术助力提升用户看直播的体验，但是b站的dota2画面还是很拉拉胯,是dota2不配用这个吗
+   用技术助力提升用户看直播的体验，但是b站的dota2画面还是很拉拉胯,是dota2不配用这个吗
 
 
 
