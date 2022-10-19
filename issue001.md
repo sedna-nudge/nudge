@@ -11,11 +11,7 @@
    1. 图像需要处理的数据量太大，导致成本很高，效率很低
    2. 图像在数字化的过程中很难保留原有的特征，导致图像处理的准确率不高
 
-   ![image-20221019140642101](C:\Users\sven.zsb\AppData\Roaming\Typora\typora-user-images\image-20221019140642101.png)
-
-3. [实时画面超分提升直播画面质量 @wujiyu115](https://mp.weixin.qq.com/s/Y7l8yOWdguyeRiWAAIOTPg)
-
-   用技术助力提升用户看直播的体验，但是b站的dota2画面还是很拉拉胯,是dota2不配用这个吗
+   ![image-20221019140642101](https://github.com/sedna-nudge/nudge/blob/main/image/image-20221019140642101.png)
 
 
 
