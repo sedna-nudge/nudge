@@ -7,3 +7,8 @@
 2. [B 站重大线上事故 @wujiyu115](https://mp.weixin.qq.com/s/nGtC5lBX_Iaj57HIdXq3Qg)  链接2:  [OpenResty XRay 分析和解决 B 站重大线上事故](https://blog.openresty.com.cn/cn/bilibili-xray-incident/)
 
 B站7.13号重大事故,所谓千里之堤，溃于蚁穴,最后查出罪魁祸首竟然是有个函数对输入参数没有做类型校验导致死循环,链接2是openresty方对事故分析的视角
+
+3. [关于硬盘中，绿盘、蓝盘、紫盘、黑盘、红盘的区别是什么？怎么选择。@sven](https://zhuanlan.zhihu.com/p/388235417)
+
+   ![硬盘结构](./image/v2-ee73eb2817a7fd47a847b99c97b2d716_1440w.jpg)
+
